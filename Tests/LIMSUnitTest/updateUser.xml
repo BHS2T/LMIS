@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <member   
+              memberid="1"  username="user88"
+              firstname="kirubel"  lastname="mewa"
+              dateofbirth="1997-02-06"  sex="Male"
+              phone="0923232353" email="updateduser@gmail.com"
+              address="updatedshromeda" department="software"   typeofuser="Admin"
+              password="updatedPassword"/>
+</dataset>

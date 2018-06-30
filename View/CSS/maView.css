@@ -1,0 +1,29 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 16, 2018, 3:56:02 AM
+    Author     : Tsiyon
+*/
+h2{
+    color: white;
+}
+.boxContent{
+    padding: 5% 5% 5% 7%;
+    margin-left: 10%;
+}
+
+.floatRightBtn{
+    margin-left: 18%;
+    margin-top: 10%;
+}
+
+input[type=text], select {
+    padding: 10px 70px;
+    width: 65%;
+    border: none;
+    border-bottom: 1px solid gray;
+    box-sizing: border-box;
+}

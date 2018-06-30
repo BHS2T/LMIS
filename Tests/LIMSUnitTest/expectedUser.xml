@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <member   memberid="1"  username="user88"
+              firstname="kirubel"  lastname="mewa"
+              dateofbirth="1997-02-06"  sex="Male"
+              phone="0923242554" email="samrawitmulu88@gmail.com"
+              address="shromeda" department="software"   typeofuser="Admin"
+              password="passthis"/>
+</dataset>

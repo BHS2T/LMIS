@@ -1,0 +1,226 @@
+/* 
+    Created on : Jun 16, 2018, 9:16:37 AM
+    Author     : Tsiyon
+*/
+
+body{
+    
+    background: url("../img/i.jpg");
+    background-size: 100%,100%;
+    padding-bottom:10%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+
+.error {
+    color: #FF0000;
+}
+.box{
+    width: 90%;
+    margin-left: 1%;
+    margin-top: 1%;
+    opacity: 0.7;
+    color: gray;
+
+
+
+}
+
+.boxHeader{
+    width: 100%;
+    height: 5%;
+    background: #0a8d71;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.contentL{
+    padding-top: 3%;
+    width: 100%;
+    margin-left: 10%;
+    background:rgb(12, 12, 12);
+    border-radius: .1%;
+   
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 1% 0 0 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #191970;
+}
+
+li {
+    float: left;
+}
+
+li a, .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+    background-color: #197090;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: lightblue}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.me{
+    background: url("../img/user.jpg");
+    border-radius: 50%;
+    width:30px;
+    height: 28px;
+}
+.boldTxt{
+
+    font-weight: bold;
+}
+
+.fullname{
+    margin-left: 13%;
+    font-weight: bold;
+    margin-top: 2%;
+}
+.graytxt{
+    color: gray;
+}
+.header2{
+    /*opacity: 0.3;*/
+    margin-top: 2.2%;
+    padding-left:2%;
+    background-color: rgba(135,206,250,0.3);
+    float: right;
+    width:70%;
+    font-size: 25px;
+    margin-right: 2.5%;
+}
+.blueT{
+    color: rgb(0,0,255);
+}
+.blueTL{
+    color: rgb(0,50,200);
+}
+.blueTLr{
+    color: rgb(20,80,150);
+}
+.pinkT{
+    color: rgb(50,100,200);
+}
+.pinkTL{
+    color: rgb(100,50,100);
+}
+.pinkTLr{
+    color: rgb(80,50,60);
+}
+.whiteT{
+    color: wheat;
+}
+
+.logoImg{
+    width:12%;
+    margin-top:20px;
+    margin-left: 10%;
+}
+
+.primaryBtn{
+    background-color: #191970;
+    padding: 2% 9% 2% 9%;
+    border-radius: 5%;
+    color: white;
+}
+.profileContent{
+    margin-left: 35%;
+
+
+}
+
+li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    border-right: 2px solid white;
+    /* background:#191970; */
+    padding: 1% 4% 1% 4%;
+    max-height: 22px;
+
+}
+li:hover{
+    background-color: #197090;
+}
+.redTxt{
+    color: red;
+}
+
+.rightBtn{
+    float: right;
+}
+
+.roundImage{
+    border-radius: 50%;
+    margin-left: 35%;
+}
+.searchBox{
+
+    margin:0% 0 0 0%;
+    padding: 0 0 0 0;
+
+}
+
+.searchBtn{
+    background: url("../img/searchicon.png");
+    border-radius: 40%;
+
+}
+.userIcon{
+    width: 3%;
+    border-radius: 50%;
+    display: inline-table;
+    /*float: right;*/
+    /*margin: .6% 2% 0 0;*/
+
+}
+.inTableBtn{
+    padding: 1% 2% 1% 2%;
+}
+.lim{
+    width: 100%;
+}
+/*.allViewContainer{
+    background-color: white;
+    border-radius: 2% 2% 0 0;
+    margin:2% 0 0 2%;
+    padding:2% 0 2% 0;
+    width: 96%;
+    
+}*/

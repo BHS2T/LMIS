@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+<table name="member">
+<column>memberid</column>
+<column>username</column>
+<column>firstname</column>
+<column>lastname</column>
+<column>dateofbirth</column>
+<column>sex</column>
+<column>phone</column>
+<column>email</column>
+<column>address</column>
+<column>department</column>
+<column>typeofuser</column>
+<column>password</column>
+<row>
+<value>1</value>
+<value>samri88</value>
+<value>kirubel</value>
+<value>mewa</value>
+<value>1997-02-06</value>
+<value>Female</value>
+<value>0923242554</value>
+<value>samrawitmulu88@gmail.com</value>
+<value>shromeda</value>
+<value>software</value>
+<value>Lab technician</value>
+<value>samri88</value>
+</row>
+</table>
+</dataset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+<table name="result">
+<column>resultId</column>
+<column>sampleId</column>
+<column>samplename</column>
+<column>result</column>
+<column>resultdescription</column>
+<row>
+<value>1</value>
+<value>oil2345</value>
+<value>oil</value>
+<value>title</value>
+<value>description her</value>
+</row>
+</table>
+</dataset>

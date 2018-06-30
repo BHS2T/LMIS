@@ -1,0 +1,57 @@
+table {
+    width: 96%;
+    margin:0% 2% 2% 2%;
+    	border-collapse: collapse;
+     background-color: white;
+    
+}
+
+th{
+    text-align: center;
+    padding: 1% 0.2% 1% 0.2%;
+     border: 1px solid #bbb;
+}
+td {
+     border: 1px solid #bbb;
+    text-align: center;
+    padding:0.5% 0.2% .5% 0.2%;
+
+}
+.inTableBtn{
+    width:70px;
+    margin-bottom:3px;
+    background: lightblue;
+border-radius: 2px;
+padding-left:  22px;
+}
+tr{
+    background-color: white;
+}
+
+.tth{
+    width: 96%;
+    background-color: lightblue;
+    margin: 3% 0% 0 2%;
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+th {
+    /*background-color: #191970;*/
+    /*background-color: rgba(15, 14, 14, 0.975);*/
+    background-color: #0a8d71;
+    color: white;
+}
+
+.floatRightBtn{
+    margin-left: 26%;
+    margin-top: 10%;
+}
+/*
+.primaryBtn{
+    background-color: #003399;
+    color: white;
+    padding: 2% 9% 2% 9%;
+    border-radius: 5%;
+}*/
